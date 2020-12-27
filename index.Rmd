@@ -21,9 +21,11 @@ output: html_document
 
 $\\$
 
-Welcome to my personal website! My name is Ngoc Nguyen, a PhD candidate in Economics at Boston College (MA, USA).
+Welcome to my personal website! My name is Ngoc Nguyen, I am a PhD candidate in Economics at Boston College (MA, USA).
 
-[My research](http://jadenguyen.github.io/personalpage/1-research.html) focuses on poverty reduction and gender issues in developing countries. I combine theoretical economic modeling with empirical documentation to analyze the effectiveness of poverty alleviation programs. I also use reduce-formed methodologies to identify the causal impacts of trade policies on fertility decision and female employment.
+[My research](http://jadenguyen.github.io/personalpage/1-research.html) focuses on causal inference using observational data, with applications in development and gender economics. I combine theoretical economic modeling with empirical documentation to analyze the effectiveness of poverty alleviation programs. I also use reduce-formed methodologies to identify the causal impacts of trade policies on fertility decision and female employment.
+
+I earned my BA in Economics (honors) from Brown University in 2014.   
 
 
 </div>

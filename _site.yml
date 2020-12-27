@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: 1-research.html
+    - text: "Contact"
+      href: 2-contact.html      
 output:
   html_document:
     theme: yeti      
