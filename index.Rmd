@@ -1,5 +1,5 @@
 ---
-title: "About R Markdown"
+title: "Homepage"
 output: html_document
 ---
 
@@ -17,15 +17,14 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **R Markdown**
+# **Ngoc Nguyen**
 
-### *Dynamic Documents for R* {style="padding-top: 0px;"}
+$\\$
 
-R Markdown is an authoring format that enables easy creation of dynamic documents, presentations, and reports from R. It combines the core syntax of [markdown](https://daringfireball.net/projects/markdown/) (an easy to write plain text format) with embedded R code chunks that are run so their output can be included in the final document. 
+Welcome to my personal website! My name is Ngoc Nguyen, a PhD candidate in Economics at Boston College (MA, USA).
 
-R Markdown documents are fully reproducible (they can be automatically regenerated whenever underlying R code or data changes).
+[My research](http://jadenguyen.github.io/personalpage/1-research.html) focuses on poverty reduction and gender issues in developing countries. I combine theoretical economic modeling with empirical documentation to analyze the effectiveness of poverty alleviation programs. I also use reduce-formed methodologies to identify the causal impacts of trade policies on fertility decision and female employment.
 
-R Markdown has many available output formats including [HTML](http://rmarkdown.rstudio.com/html_document_format.html), [PDF](http://rmarkdown.rstudio.com/pdf_document_format.html), [MS Word](http://rmarkdown.rstudio.com/word_document_format.html), [Beamer](http://rmarkdown.rstudio.com/beamer_presentation_format.html), [HTML5 slides](http://rmarkdown.rstudio.com/ioslides_presentation_format.html), [Tufte handouts](http://rmarkdown.rstudio.com/tufte_handout_format.html), [books](https://bookdown.org), [dashboards](http://rmarkdown.rstudio.com/flexdashboard/), and [websites](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
 
 </div>
 <div class="col-sm-6">
