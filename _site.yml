@@ -6,3 +6,6 @@ navbar:
       href: index.html
     - text: "Research"
       href: 1-research.html
+output:
+  html_document:
+    theme: paper      
