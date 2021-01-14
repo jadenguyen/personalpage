@@ -3,18 +3,32 @@ title: "Research"
 output: html_document
 ---
 
+```{css, echo=FALSE}
+p {
+  text-align: center;
+}
+```
+
 $\\$
 $\\$
 $\\$
 
-"Information Asymmetry and Poverty Targeting: Evidence from Vietnam" *(Working paper)* 
+  ![](images/bunch.png){width=35%}
+
+"The Roles of Bunching and Learning in Targeting Poverty: Evidence from Vietnam" *(Working paper - Updating)* [*(Slides)*](https://www.dropbox.com/s/wk3etmbo6qo9vm8/bunching_poverty_program.pdf?dl=0)
+
+
+$\\$
+
+  ![](images/vn_children.jpg){width=35%} 
+
+"Market Access and The Rise of Sex Ratio at Birth: Evidence from Vietnam" (with Nghiem Huynh) *(Draft coming soon)* [*(Slides)*](https://www.dropbox.com/s/0urwbzwx2r4kv76/Sex_ratio_vn.pdf?dl=0)
+
+
 
 $\\$
  
-"Rosies on the Rise: the Role of Gender Norms in Narrowing the Gender Gap in Formal Employment" *(Draft coming soon)*
-
-$\\$
+  ![](images/vn_femfactoryworkers.jpg){width=35%} 
  
-"Market Access and The Rise of Sex Ratio at Birth: Evidence from Vietnam" (with Nghiem Huynh) *(Draft coming soon)*
-
+"Rosies on the Rise: War Experience and Female Employment in the Formal Sector" *(Draft coming soon)*
 
